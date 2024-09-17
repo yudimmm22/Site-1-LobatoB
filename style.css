@@ -16,4 +16,25 @@ background-color: black(255,255,255)
  }
   .footer{
 background-color: aqua;
-  }
+ padding: 25px; ;
+}
+
+.boton{
+position: fixed;
+top: 20px; ;
+left: 20px; ;
+padding: 10px 20px; 
+background-color: black;
+color: blue;
+text-decoration: none;
+border-color: aquamarine;
+}
+.boton:hover{
+ background:linear-gradient(to right,#fff,#fff,#fff);
+}
+.boton:active{
+  font-size: 15px;
+}
+
+
+
