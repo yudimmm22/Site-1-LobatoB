@@ -35,6 +35,19 @@ border-color: aquamarine;
 .boton:active{
   font-size: 15px;
 }
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grap: 10px
+  width: 500px;
+  margin: auto;
+} 
+
+img{
+  width: 100%
+  heigth: 250px;
+  object-fit: cover;
+}
 
 
 
